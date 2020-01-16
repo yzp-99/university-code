@@ -1,0 +1,587 @@
+1575466340929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilep8ScQ0"
+1575466342136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575466342137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575466342137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575466342137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575466344293	Marionette	INFO	Listening on port 56958
+1575466344666	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/i[Child 14844, Chrome_ChildThread] WARNIpNcG: p/ipec erhror: 109: firle z:/task_1572401533/build/src/ipc/chromium/srocm/chromei/ucommmon//ipsc_crhancn/chrome/commone/lipc__wcihnanne.lcc, line _3w41
+in.cc, line [Child 1341
+[Child 16088, Chrome[Parent 14800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1575466482150	Marionette	INFO	Stopped listening on port 56958
+[GPU 912, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575466491288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileS5pvNg"
+1575466491986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575466491986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575466491987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575466491987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575466493625	Marionette	INFO	Listening on port 57040
+1575466494009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16680, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1575469756832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileeO6px0"
+1575469932377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile3V5f8g"
+1575469933058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575469933058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575469933058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575469933058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575469934794	Marionette	INFO	Listening on port 59608
+1575469935123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1112, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1575470093146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileMYIEdv"
+1575470093808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575470093809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575470093809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575470093809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575470095543	Marionette	INFO	Listening on port 59814
+1575470095823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 19076, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 19076, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19076, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromiu[Child 4140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/s[Parent 19076, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13736, Chr1575470177972	Marionette	INFO	Stopped listening on port 59814
+[GPU 19184, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+me_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575471138699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilevVIRUh"
+1575471139463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575471139463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575471139463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575471139463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575471141193	Marionette	INFO	Listening on port 61006
+1575471141362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 17984, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 17984, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 17984, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [Child3 41
+5012, Chrome_ChildT[Chread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5012, Chr[Parent 17984, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1860, Chrome_Child1575471204610	Marionette	INFO	Stopped listening on port 61006
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+16740, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575471296176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilec7ceRM"
+1575471297004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575471297004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575471297004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575471297004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575471298699	Marionette	INFO	Listening on port 61175
+1575471298885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js?v=2019-0722-1016, line 1: unreachable code after return statement
+[Parent 13536, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 13536, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 13536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17600, Chrome_ChildThre[Chad] WAild 1532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1532, C[Parent 13536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9040, Chrome1575471362492	Marionette	INFO	Stopped listening on port 61175
+[GPU 10900, Chrome_Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d[Parent 13536, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+1575505222272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofiletBUhaJ"
+1575505223111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575505223111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575505223112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575505223112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575505224669	Marionette	INFO	Listening on port 62036
+1575505224978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 9428, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9428, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9440, Chrome_ChildThread] [ChiWAlRd 6256, ChrNING:ome_ChildThread] WA RNING: pipe error: 109: file z:/task_pip1575282935/build/src/ipc/chromie errorum/src/chro: 109: file z:/task_1575282935/build/src/ipc/chromium/srme/common/ipcc/_chachnnromeel_win./commoccn/ip, c_chline 34anne1
+l_win.cc, [Chilildne 3 46256, C1
+[Child 9440, Chrome[Parent 9428, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18232, Chrom1575505285282	Marionette	INFO	Stopped listening on port 62036
+[GPU 6732, Chrome_Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575506842692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileA2mEtL"
+1575506843397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575506843397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575506843397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575506843397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575506845139	Marionette	INFO	Listening on port 62693
+1575506845400	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14560, Chrome_ChildThrea[Child 1292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1292, Chrome_Child[Parent 11912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12524, Chro1575506888175	Marionette	INFO	Stopped listening on port 62693
+[GPU 18736, Chrome_C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575506894368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilefwj9Mn"
+1575506895158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575506895158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575506895183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575506895183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575506896802	Marionette	INFO	Listening on port 62740
+1575506897062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 11612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chr[Child 16160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/otamsek/_c1575282935/build/sroc/ipc/chromium/src/chromemmo/common/ipc_chan/ipcnnel_win._cc, licne 341
+hannel_win.cc, line 341
+[Child 13612, Chrome_ChildThread] WARNING: pi[Parent 11612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1575506962268	Marionette	INFO	Stopped listening on port 62740
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575507366708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileAXPMeg"
+1575507367503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575507367503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575507367503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575507367503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575507369201	Marionette	INFO	Listening on port 63047
+1575507369430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 16324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19156, Chrome_ChildThread] WARNI[Child 17840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17840, Chrom[Parent 16324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3520, Chrome_ChildT1575507413766	Marionette	INFO	Stopped listening on port 63047
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8064, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575511125541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile4xnNis"
+1575511126170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575511126170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575511126170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575511126170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575511127868	Marionette	INFO	Listening on port 64038
+1575511128231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 17228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[ChChild 1588i,l Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1588, Ch[Parent 17228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16424, Chro1575511178975	Marionette	INFO	Stopped listening on port 64038
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 1315
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575511438859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile29xgU1"
+1575511439520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575511439521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575511439521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575511439521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575511441236	Marionette	INFO	Listening on port 64167
+1575511441554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 18488, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18488, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/[Child src/ipc/chromium/1src/c9216, Chrome_ChildThhromre/common/iead] WARNING: pc_channel_pwini.cc,pe e lrror:ine 3 41091: f
+ile z:/tas[Ckhild 1_51452575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19216, Chrome_Chil[Parent 18488, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11732, Chr1575511490899	Marionette	INFO	Stopped listening on port 64167
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575512080662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileIVLsFy"
+1575512081355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575512081355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575512081355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575512081355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575512083061	Marionette	INFO	Listening on port 64458
+1575512083369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 18376, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18376, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child ld 13368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t[Parent 18376, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14712, Chr1575512139738	Marionette	INFO	Stopped listening on port 64458
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575512228360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileh5g0uk"
+1575512229025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575512229025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575512229025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575512229025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575512230684	Marionette	INFO	Listening on port 64606
+1575512231065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 16504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9304, Chrome_ChildThread[Child 17732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17732, Chr[Parent 16504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1484, Chrome_ChildT1575512276698	Marionette	INFO	Stopped listening on port 64606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17976, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575513040819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilehhwY4u"
+1575513041516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575513041517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575513041517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575513041517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575513043119	Marionette	INFO	Listening on port 64831
+1575513043555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+console.error: "Error sending event: picker-node-picked"
+console.error: "TypeError: can't access dead object: standardTreeWalkerFilter@resource://devtools/server/actors/inspector/utils.js:154:5\nisSkippedNode@resource://devtools/server/actors/inspector/document-walker.js:217:17\ngetStartingNode@resource://devtools/server/actors/inspector/document-walker.js:172:27\nDocumentWalker@resource://devtools/server/actors/inspector/document-walker.js:79:34\ngetNonAnonymousDocumentWalker@resource://devtools/server/actors/inspector/walker.js:413:12\nrawParentNode@resource://devtools/server/actors/inspector/walker.js:714:27\nparentNode@resource://devtools/server/actors/inspector/walker.js:693:25\nform@resource://devtools/server/actors/inspector/node.js:217:36\nwrite@resource://devtools/shared/protocol/types.js:363:32\nwrite@resource://devtools/shared/protocol/types.js:268:39\nwrite@resource://devtools/shared/protocol/Request.js:113:22\nwrite@resource://devtools/shared/protocol/Request.js:39:26\n_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24\ninitialize/<@resource://devtools/shared/protocol/Actor.js:46:16\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\npick/this._onPick@resource://devtools/server/actors/highlighters.js:334:20\n"
+TypeError: can't access dead object: standardTreeWalkerFilter@resource://devtools/server/actors/inspector/utils.js:154:5
+isSkippedNode@resource://devtools/server/actors/inspector/document-walker.js:217:17
+getStartingNode@resource://devtools/server/actors/inspector/document-walker.js:172:27
+DocumentWalker@resource://devtools/server/actors/inspector/document-walker.js:79:34
+getNonAnonymousDocumentWalker@resource://devtools/server/actors/inspector/walker.js:413:12
+rawParentNode@resource://devtools/server/actors/inspector/walker.js:714:27
+parentNode@resource://devtools/server/actors/inspector/walker.js:693:25
+form@resource://devtools/server/actors/inspector/node.js:217:36
+write@resource://devtools/shared/protocol/types.js:363:32
+write@resource://devtools/shared/protocol/types.js:268:39
+write@resource://devtools/shared/protocol/Request.js:113:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+pick/this._onPick@resource://devtools/server/actors/highlighters.js:334:20
+
+JavaScript error: https://passport2.chaoxing.com/api/monitor?version=1575513124698&refer=http://i.mooc.chaoxing.com&jsoncallback=jsonp04794268260362361&t=1575513126321, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://passport2.chaoxing.com/api/monitor?version=1575513128374&refer=http://i.mooc.chaoxing.com&jsoncallback=jsonp07354199178231973&t=1575513130000, line 1: SyntaxError: expected expression, got '<'
+[Parent 10108, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10108, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18[Chil220d 2596, Chrome_ChildThread] WARNING: p,ipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2596, Chrome_ChildThread] WA[Parent 10108, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10816, Chrome_1575513131328	Marionette	INFO	Stopped listening on port 64831
+[GPU 99
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575513758479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile82QL4w"
+1575513759191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575513759191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575513759192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575513759192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575513760814	Marionette	INFO	Listening on port 65046
+1575513761169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 16612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8648, Chro[Parent 16612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1575513818009	Marionette	INFO	Stopped listening on port 65046
+[GPU 18608, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575514547855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileQfclKs"
+1575514548523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575514548523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575514548523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575514548523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575514550429	Marionette	INFO	Listening on port 65449
+1575514550545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 9800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[ild 2560Child 14168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14168, Chrome_ChildThread] WARNING: pipe err[Parent 9800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6992, Chrome_ChildThrea1575514602317	Marionette	INFO	Stopped listening on port 65449
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575538819999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileCFDi7q"
+1575538821202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575538821202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575538821202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575538821202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575538823531	Marionette	INFO	Listening on port 54324
+1575538823720	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5196, Chrome_ChildThread] WARNING: p[Child 17060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17060, Chrom[Parent 14692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1575538828604	Marionette	INFO	Stopped listening on port 54324
+[GPU 11732, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575538877125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileIQPHhv"
+1575538877889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575538877889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575538877890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575538877890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575538879886	Marionette	INFO	Listening on port 55700
+1575538880346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 12864, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12864, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[ C3hild 41
+12884, Chrome[_CChilhildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12884, Chrome[Parent 12864, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13084, Chrome_1575538949267	Marionette	INFO	Stopped listening on port 55700
+[GPU 18948, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575539659908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileW27Jc6"
+1575539660784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575539660785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575539660785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575539660785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575539663143	Marionette	INFO	Listening on port 55898
+1575539663650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mooc1-2.chaoxing.com/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mooc1-2.chaoxing.com/js/common/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+JavaScript warning: https://mooc1-2.chaoxing.com/ananas/ext-4.2.0.663/all-classes.js, line 1: unreachable code after return statement
+[Parent 4956, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4956, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6884, Chrome_ChildTh[Parent 4956, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1575539706008	Marionette	INFO	Stopped listening on port 55898
